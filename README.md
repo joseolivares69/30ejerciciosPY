@@ -1,0 +1,2 @@
+# 30ejerciciosPY
+Ejercicios clase
